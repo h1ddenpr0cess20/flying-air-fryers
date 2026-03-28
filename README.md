@@ -16,5 +16,6 @@ Use the speed slider at the bottom to control how fast the fryers fly.
 
 ## Screenshot
 
-<img width="1717" height="1289" alt="image" src="https://github.com/user-attachments/assets/b940ba75-43bc-47ed-81a7-f769d1420a5b" />
+<img width="1709" height="1289" alt="image" src="https://github.com/user-attachments/assets/d875f2cb-e543-4ce5-84f4-84a7db21a69b" />
+
 

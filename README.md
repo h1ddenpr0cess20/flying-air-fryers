@@ -14,6 +14,7 @@ Then open `index.html`. On Windows, double-click the file or drag it into a brow
 
 Use the speed slider at the bottom to control how fast the fryers fly.
 
-## License
+## Screenshot
 
-MIT
+<img width="1717" height="1289" alt="image" src="https://github.com/user-attachments/assets/b940ba75-43bc-47ed-81a7-f769d1420a5b" />
+
